@@ -20,7 +20,6 @@ This project is a comprehensive **Business Intelligence (BI) Dashboard** develop
 
 ## 📂 Project Structure
 * `Dashboard_AkshayKumarDR.xlsx`: The master interactive Excel workbook.
-* `Screenshots/`: Visual previews of the Dashboard, Sales Data, and Pivot Tables.
 
 ## 👤 Author
 **AKSHAY KUMAR D R**
