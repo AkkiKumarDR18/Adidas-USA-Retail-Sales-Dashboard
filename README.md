@@ -18,6 +18,10 @@ This project is a comprehensive **Business Intelligence (BI) Dashboard** develop
 * **Automated Calculations:** Built custom formulas for **Operating Margin %** and **Sales Variance** to track business health.
 * **Data Visualization:** Developed a unified UI featuring Trend lines, and Ranking bars for high-level executive reporting.
 
+## 📸 Preview
+<img width="1573" height="729" alt="Screenshot 2026-03-17 233808" src="https://github.com/user-attachments/assets/943ffe3c-9030-4b2b-b1ec-75d66118e472" />
+
+
 ## 📂 Project Structure
 * `Dashboard_AkshayKumarDR.xlsx`: The master interactive Excel workbook.
 
